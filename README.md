@@ -1,9 +1,9 @@
 # Azure-WebApp-Infrastructure-Deployment-by-Terraform
 
 - Create 
-    - a providers.tf ( to configure the provider ) , 
+    - providers.tf ( to configure the provider ) , 
     - variables.tf ( to keep the variables ) , 
-    - bakcend.tf ( to store the tfstate file in the Azure Cloud. Configure the existing or a new storage container )
+    - backend.tf ( to store the tfstate file in the Azure Cloud. Configure the existing or a new storage container )
 
 
 1 - Create a Resource Group
