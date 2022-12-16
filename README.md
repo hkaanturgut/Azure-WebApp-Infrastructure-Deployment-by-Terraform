@@ -12,7 +12,7 @@
 
 3 - Create 3 Subnets ( frontend , backend and middle subnet ) as we need 3 subnets when we use Load Balancer
 
-4 - Create a Load Balaner. Create and connect new Public IP to the Load Balancer
+4 - Create a Load Balancer. Create and connect new Public IP to the Load Balancer
 
 5 - Create a Storage Account to store the Virtual Machine Datas and Managed Disks ( independent from the containers that we use to store the BACKEND.TF )
 #
