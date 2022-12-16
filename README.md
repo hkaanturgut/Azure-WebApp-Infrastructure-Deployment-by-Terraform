@@ -25,6 +25,6 @@ INSIDE THE VIRTUAL-MACHINES.TF
 8 - Create Network Interface Card and connect to the subnets
 #
 
-- Run { terraform init } and to see the plan run { terraform plan } command
+- Run { terraform init } command and to see the plan run { terraform plan } command
 
-- To provision the environment , run { terraform apply }
+- To provision the environment , run { terraform apply } command
